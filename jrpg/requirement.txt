@@ -1,0 +1,48 @@
+Objective
+- Simulate Japanese-Style Role-Playing Games
+
+Functional Requirement
+- Class: Warrior / Archor / Mage / Thief
+- Details:
+  - Warrior:
+    - Attribute:
+      - HP (Health Point)
+      - SP (Skill Point)
+      - ATK (Attack)
+      - DEF (Defense)
+      - INT (Intelligence)
+    - Method:
+      - attack()
+      - technic()
+  - Archor:
+    - Attribute:
+      - HP (Health Point)
+      - SP (Skill Point)
+      - ATK (Attack)
+      - DEF (Defense)
+      - INT (Intelligence)
+    - Method:
+      - attack()
+      - technic()
+  - Mage:
+    - Attribute:
+      - HP (Health Point)
+      - MP (Mana Point)
+      - ATK (Attack)
+      - DEF (Defense)
+      - INT (Intelligence)
+    - Method:
+      - attack()
+      - cast()
+  - Thief:
+    - Attribute:
+      - HP (Health Point)
+      - SP (Skill Point)
+      - ATK (Attack)
+      - DEF (Defense)
+      - INT (Intelligence)
+    - Method:
+      - attack()
+      - steal()
+
+Non-Functional Requirement

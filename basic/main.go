@@ -13,4 +13,7 @@ func main() {
 	ptlearn()
 	linebreak()
 	itflearn()
+	linebreak()
+	game()
+	linebreak()
 }
