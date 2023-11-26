@@ -1,10 +1,16 @@
 package main
 
 import (
-	_"fmt"
+	"fmt"
 	_"github.com/google/uuid"
 )
 
+func linebreak() {
+	fmt.Println("==========")
+}
+
 func main() {
 	ptlearn()
+	linebreak()
+	itflearn()
 }
